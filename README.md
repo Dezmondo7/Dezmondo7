@@ -19,7 +19,7 @@ Cloud Security: Microsoft Azure security fundamentals (aligned with SC-900) and 
 
 ### 💻 Infrastructure & Scripting
 OS Mastery: Linux (Ubuntu/Kali) and Windows (Server 2022/Desktop).
-Scripting: Linux Bash (automation/permissions), Windows PowerShell, and Python for security automation.
+Scripting: Linux Bash (automation/permissions), Windows PowerShell, and Python for security automation
 
 ### 🏗️ Full-Stack Engineering
 Frontend/Backend: React, Next.js, Node.js, ExpressJS.
@@ -32,12 +32,17 @@ Focus: Network Security, Identity Management, and Penetration Testing.
 Key Tech: Windows Server 2022, VMWare, Kali Linux, Nmap.
 Highlight: Successfully documented a full domain compromise, from reconnaissance to SMB Null Session exploitation.
 
-### KreativeWeb3d: Secure AI Integration
+### 🚀 KreativeWeb3d: Secure AI Integration
 Focus: Secure API Implementation & Asynchronous Data Pipelines.
 Key Tech: React, GPT-4, Supabase (PostgreSQL).
 Highlight: Engineered a secure "handshake" between a frontend interface and the OpenAI API, managing telemetry data and user session privacy.
 
-### Next.js Analytics Dashboard
+###  🚀 Secure Cloud-to-Frontend Data Pipeline
+The Goal: To architect a resilient and secure database middleman for real-time data handling.
+The Build: Deployed a Supabase (PostgreSQL) backend that acts as a secure bridge between a remote cloud server and a React-based frontend.
+Research Focus: Focused on end-to-end encryption and the implementation of Row Level Security (RLS) policies bu use of a cloud server to ensure that even if an API key is intercepted, the data remains scoped and protected.
+
+### 🚀 Next.js Analytics Dashboard
 Focus: Behavioral Telemetry & Administrative Visibility.
 Highlight: Developed a custom heatmap engine to visualize user interactions, demonstrating an understanding of data ingestion and secure persistence.
 
