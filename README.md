@@ -1,6 +1,6 @@
 
-Hi, I'm Dale 👋
-# 🛡️ Cyber Security Student / Researcher & Technical Explorer
+# Hi, I'm Dale 👋
+## 🛡️ Cyber Security Student / Researcher & Technical Explorer
 I am transitioning from a Cyber Consultancy background into a deeply technical role within the security ecosystem, leveraging a background in full-stack builds and structured computer science coursework to understand how modern applications and infrastructure are secured. 
 
 # 🛠️ Technical Toolkit
