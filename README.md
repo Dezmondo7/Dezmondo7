@@ -1,10 +1,10 @@
 
 Hi, I'm Dale 👋
-🛡️ Cyber Security Student / Researcher & Technical Explorer
+# 🛡️ Cyber Security Student / Researcher & Technical Explorer
 I am transitioning from a Cyber Consultancy background into a deeply technical role within the security ecosystem, leveraging a background in full-stack builds and structured computer science coursework to understand how modern applications and infrastructure are secured. 
 
-🛠️ Technical Toolkit
-🔍 SIEM & Monitoring
+# 🛠️ Technical Toolkit
+# 🔍 SIEM & Monitoring
 Wazuh (XDR/SIEM): Log analysis, endpoint detection, and real-time telemetry monitoring.
 
 Telemetry Data: Experience in building custom data pipelines to visualize user behavior.
