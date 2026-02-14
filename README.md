@@ -40,7 +40,7 @@ Highlight: Engineered a secure "handshake" between a frontend interface and the 
 ###  🚀 Secure Cloud-to-Frontend Data Pipeline
 The Goal: To architect a resilient and secure database middleman for real-time data handling.
 The Build: Deployed a Supabase (PostgreSQL) backend that acts as a secure bridge between a remote cloud server and a React-based frontend.
-Research Focus: Focused on end-to-end encryption and the implementation of Row Level Security (RLS) policies bu use of a cloud server to ensure that even if an API key is intercepted, the data remains scoped and protected.
+Research Focus: Focused on end-to-end encryption and the implementation of Row Level Security (RLS) policies with the use of a cloud server to ensure that even if an API key is intercepted, the data remains scoped and protected.
 
 ### 🚀 Next.js Analytics Dashboard
 Focus: Behavioral Telemetry & Administrative Visibility.
