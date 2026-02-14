@@ -21,16 +21,16 @@ Cloud Security: Microsoft Azure security fundamentals (aligned with SC-900) and 
 OS Mastery: Linux (Ubuntu/Kali) and Windows (Server 2022/Desktop).
 Scripting: Linux Bash (automation/permissions), Windows PowerShell, and Python for security automation
 
-### 🏗️ Full-Stack Engineering
-Frontend/Backend: React, Next.js, Node.js, ExpressJS.
-Databases: PostgreSQL, SQL, and Supabase.
-Workflows: Git & GitHub (CI/CD workflows and technical documentation).
-
 ### 🚀 Technical Milestones (Security & Infrastructure)
 Active Directory Attack & Defense Lab
 Focus: Network Security, Identity Management, and Penetration Testing.
 Key Tech: Windows Server 2022, VMWare, Kali Linux, Nmap.
 Highlight: Successfully documented a full domain compromise, from reconnaissance to SMB Null Session exploitation.
+
+### 🏗️ Full-Stack Engineering
+Frontend/Backend: React, Next.js, Node.js, ExpressJS.
+Databases: PostgreSQL, SQL, and Supabase.
+Workflows: Git & GitHub (CI/CD workflows and technical documentation).
 
 ### 🚀 KreativeWeb3d: Secure AI Integration
 Focus: Secure API Implementation & Asynchronous Data Pipelines.
