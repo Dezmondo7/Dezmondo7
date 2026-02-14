@@ -47,12 +47,12 @@ Focus: Behavioral Telemetry & Administrative Visibility.
 Highlight: Developed a custom heatmap engine to visualize user interactions, demonstrating an understanding of data ingestion and secure persistence.
 
 ### 🎓 Academic Projects (edX Coursework)
-Movie Recommender System
+#### Movie Recommender System
 Focus: Algorithms & Data Handling.
 Key Tech: React / JavaScript.
 Highlight: Implemented logic to process large datasets and return filtered results based on user input, a core concept in Data Integrity and Filtering.
 
-###  Curated / Curated-Public
+#### Curated / Curated-Public
 Focus: Frontend Architecture & Content Management.
 Key Tech: JavaScript (ES6+), HTML5, CSS3.
 Highlight: Developed a polished UI for content curation, focusing on DOM manipulation and efficient state management.
