@@ -3,6 +3,13 @@
 ## 🛡️ Cyber Security Student / Researcher & Technical Explorer
 I am transitioning from a Cyber Consultancy background into a deeply technical role within the security ecosystem, leveraging a background in full-stack builds and structured computer science coursework to understand how modern applications and infrastructure are secured. 
 
+# 📈 My Evolution
+2022: Began my journey into development, focusing on fundamental logic and basic Python/JS scripting. 
+
+2024: Transitioned into Full-Stack development, exploring React architectures and database management.
+
+2025/26: Specialized in Defensive Security Operations, focusing on architectural hardening, credential lifecycle management, and secure API integration.
+
 # 🛠️ Technical Toolkit
 ### 🔍 SIEM & Monitoring
 Wazuh (XDR/SIEM): Log analysis, endpoint detection, and real-time telemetry monitoring.
