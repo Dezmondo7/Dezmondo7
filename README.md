@@ -1,7 +1,7 @@
 
 # Hi, I'm Dale 👋
 ## 🛡️ Cyber Security Student / Researcher & Technical Explorer
-What began as an exploration into modern UI/UX design evolved into a sophisticated mini full-stack application with high level security architecture. This project demonstrates the seamless integration of a live React frontend, a Node.js backend, and a cloud-based database (Supabase), complemented by a real-time monitoring dashboard and AI-driven user interaction. This project showcases Defensive Cloud Architecture, implementing proxy-layer validation, RLS policies, and encrypted data persistence.
+I am transitioning from a Cyber Consultancy background into a deeply technical role within the security ecosystem, leveraging a background in full-stack builds and structured computer science coursework to understand how modern applications and infrastructure are secured. 
 
 ## 📈 My Evolution
 2022: Began my journey into development, focusing on fundamental logic and basic Python/JS scripting. 
