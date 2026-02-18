@@ -40,7 +40,7 @@ Databases: PostgreSQL, SQL, and Supabase.
 Workflows: Git & GitHub (CI/CD workflows and technical documentation).
 
 ### 🚀 KreativeWeb3d: Secure AI Integration
-Focus: Secure API Implementation & Asynchronous Data Pipelines.
+Focus: Secure API Implementation, Asynchronous Data Pipelines & Telematic Data Capture.
 Key Tech: React, GPT-4, Supabase (PostgreSQL).
 Highlight: Engineered a secure "handshake" between a frontend interface and the OpenAI API, managing telemetry data and user session privacy.
 
