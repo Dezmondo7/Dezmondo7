@@ -39,7 +39,7 @@ Frontend/Backend: React, Next.js, Node.js, ExpressJS.
 Databases: PostgreSQL, SQL, and Supabase.
 Workflows: Git & GitHub (CI/CD workflows and technical documentation).
 
-### 🚀 KreativeWeb3d: Secure AI Integration
+### 🚀 KreativeWeb3d: Secure AI Integration & Real-time Telematic Data Capture
 Focus: Secure API Implementation, Asynchronous Data Pipelines & Telematic Data Capture.
 Key Tech: React, GPT-4, Supabase (PostgreSQL).
 Highlight: Engineered a secure "handshake" between a frontend interface and the OpenAI API, managing telemetry data and user session privacy.
