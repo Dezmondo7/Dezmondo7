@@ -34,6 +34,10 @@ Focus: Network Security, Identity Management, and Penetration Testing.
 Key Tech: Windows Server 2022, VMWare, Kali Linux, Nmap.
 Highlight: Successfully documented a full domain compromise, from reconnaissance to SMB Null Session exploitation.
 
+### 📈 Database Schema
+The Goal: To engineer a secure database capabale of recieving asynchronous requests in real-time from an extrernal Express.js server.
+The Build: Architected a hardened Supabase (PostgreSQL) instance utilizing Row-Level Security (RLS) policies and strict schema-level permissions to ensure that data ingested via the Express.js proxy is isolated, validated, and restricted to authenticated service-role operations.
+
 ### 🏗️ Full-Stack Engineering
 Frontend/Backend: React, Next.js, Node.js, ExpressJS.
 Databases: PostgreSQL, SQL, and Supabase.
