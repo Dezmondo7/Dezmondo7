@@ -34,10 +34,6 @@ Focus: Network Security, Identity Management, and Penetration Testing.
 Key Tech: Windows Server 2022, VMWare, Kali Linux, Nmap.
 Highlight: Successfully documented a full domain compromise, from reconnaissance to SMB Null Session exploitation.
 
-### 📈 Database Schema
-The Goal: To engineer a secure database capabale of recieving asynchronous requests in real-time from an extrernal Express.js server.
-The Build: Architected a hardened Supabase (PostgreSQL) instance utilizing Row-Level Security (RLS) policies and strict schema-level permissions to ensure that data ingested via the Express.js proxy is isolated, validated, and restricted to authenticated service-role operations.
-
 ### 🏗️ Full-Stack Engineering
 Frontend/Backend: React, Next.js, Node.js, ExpressJS.
 Databases: PostgreSQL, SQL, and Supabase.
@@ -53,6 +49,10 @@ The Goal: To architect a resilient and secure database middleman for real-time d
 The Build: Deployed a Supabase (PostgreSQL) backend that acts as a secure bridge between a remote cloud server and a React-based frontend.
 Engineered an Express.js/Node.js Middleware Proxy to facilitate secure Data-in-Transit protocols. This architecture decouples the React frontend from the backend, ensuring that telemetric data capture is sanitized and tunneled through a secure proxy before being persisted to a Render cloud environment and a Supabase (PostgreSQL) database via authenticated handshakes.
 Research Focus: Focused on end-to-end encryption and the implementation of Row Level Security (RLS) policies with the use of a cloud server to ensure that even if an API key is intercepted, the data remains scoped and protected.
+
+### 📈 Database Schema
+The Goal: To engineer a secure database capabale of recieving asynchronous requests in real-time from an extrernal Express.js server.
+The Build: Architected a hardened Supabase (PostgreSQL) instance utilizing Row-Level Security (RLS) policies and strict schema-level permissions to ensure that data ingested via the Express.js proxy is isolated, validated, and restricted to authenticated service-role operations.
 
 ### 🚀 Next.js Analytics Dashboard
 Focus: Behavioral Telemetry & Administrative Visibility.
