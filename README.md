@@ -75,3 +75,4 @@ Highlight: Developed a polished UI for content curation, focusing on DOM manipul
 🎓 Level 4 Cyber Security 
 🛠️ Expanding Home Lab to include SIEM (Security Information and Event Management) logging.
 🔒 Exploring OWASP Top 10 vulnerabilities in React-based architectures.
+🛠️ Developing a custom algorithm within a full-stack application, using secure architecture methodologies inclduing OWASP.
