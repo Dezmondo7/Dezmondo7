@@ -1,10 +1,9 @@
 
 # Hi, I'm Dale 👋
 ## 🛡️ Cyber Security Student / Researcher & Technical Explorer
-I am transitioning from a Cyber Consultancy background into a deeply technical role within the security ecosystem, leveraging a background in full-stack builds and structured computer science coursework to understand how modern applications and infrastructure are secured. 
+I am transitioning into a deeply technical role within the security ecosystem, leveraging a background in full-stack builds and structured computer science coursework to understand how modern applications and infrastructure are secured. 
 
-## 📈 My Evolution
-2017: Entered into the computing ecosystem as a cyber security consultant.
+## 📈 My Evolution.
 
 2022: Began my journey into development, focusing on fundamental logic and basic Python/JS scripting. 
 
