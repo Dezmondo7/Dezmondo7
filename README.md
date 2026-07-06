@@ -36,7 +36,7 @@ Key Tech: Windows Server 2022, VMWare, Kali Linux, Nmap.
 Highlight: Successfully documented a full domain compromise, from reconnaissance to SMB Null Session exploitation.
 
 ### 🏗️ Full-Stack Engineering
-Frontend/Backend: React, Next.js, Node.js, ExpressJS.
+Frontend/Backend: Typescript, React, Next.js, Node.js, ExpressJS.
 Databases: PostgreSQL, SQL, and Supabase.
 Workflows: Git & GitHub (CI/CD workflows and technical documentation).
 
