@@ -14,14 +14,14 @@ I am transitioning into a deeply technical role within the security ecosystem, l
 ## 🛠️ Technical Toolkit
 ### 🔍 SIEM & Monitoring
 Wazuh (XDR/SIEM): Log analysis, endpoint detection, and real-time telemetry monitoring.
-Telemetry Data: Experience in building custom data pipelines to visualize user behavior.
+Telemetry Data: Experience in building custom data pipelines to visualize user behaviour.
 
 ### ⚔️ Offensive Security
 Ethical Hacking: Vulnerability assessment and penetration testing.
 TryHackMe: Active practitioner with a focus on network exploitation and privilege escalation.
 
 ### 🌐 Networking & Cloud
-Infrastructure: VMWare Workstation; architecting and managing isolated attack/defense environments.
+Infrastructure: VMWare Workstation; architecting and managing isolated attack/defence environments.
 Core Networking: TCP/IP, DNS, Firewall ruleset configuration, and Routing.
 Cloud Security: Microsoft Azure security fundamentals (aligned with SC-900) and Identity & Access Management (IAM).
 
@@ -48,15 +48,15 @@ Highlight: Engineered a secure "handshake" between a frontend interface and the 
 ###  🚀 Secure Frontend-to-Cloud Data Pipeline
 The Goal: To architect a resilient and secure database middleman for real-time data handling.
 The Build: Deployed a Supabase (PostgreSQL) backend that acts as a secure bridge between a remote cloud server and a React-based frontend.
-Engineered an Express.js/Node.js Middleware Proxy to facilitate secure Data-in-Transit protocols. This architecture decouples the React frontend from the backend, ensuring that telemetric data capture is sanitized and tunneled through a secure proxy before being persisted to a Render cloud environment and a Supabase (PostgreSQL) database via authenticated handshakes.
+Engineered an Express.js/Node.js Middleware Proxy to facilitate secure Data-in-Transit protocols. This architecture decouples the React frontend from the backend, ensuring that telemetric data capture is sanitized and tunnelled through a secure proxy before being persisted to a Render cloud environment and a Supabase (PostgreSQL) database via authenticated handshakes.
 Research Focus: Focused on end-to-end encryption and the implementation of Row Level Security (RLS) policies with the use of a cloud server to ensure that even if an API key is intercepted, the data remains scoped and protected.
 
 ### 📈 Database Schema
-The Goal: To engineer a secure database capabale of recieving asynchronous requests in real-time from an extrernal Express.js server.
+The Goal: To engineer a secure database capable of receiving asynchronous requests in real-time from an external Express.js server.
 The Build: Architected a hardened Supabase (PostgreSQL) instance utilizing Row-Level Security (RLS) policies and strict schema-level permissions to ensure that data ingested via the Express.js proxy is isolated, validated, and restricted to authenticated service-role operations.
 
 ### 🚀 Next.js Analytics Dashboard
-Focus: Behavioral Telemetry & Administrative Visibility.
+Focus: Behavioural Telemetry & Administrative Visibility.
 Highlight: Developed a custom heatmap engine to visualize user interactions, demonstrating an understanding of data ingestion and secure persistence.
 
 ### 🎓 Academic Projects (edX Coursework)
@@ -71,7 +71,7 @@ Key Tech: JavaScript (ES6+), HTML5, CSS3.
 Highlight: Developed a polished UI for content curation, focusing on DOM manipulation and efficient state management.
 
 ### 📈 Current Learning Path
-🎓 Level 4 Cyber Security 
-🛠️ Expanding Home Lab to include SIEM (Security Information and Event Management) logging.
-🔒 Exploring OWASP Top 10 vulnerabilities in React-based architectures.
+🎓 MSc Cloud and Network Security
+🛠️ Cloud Architecture and Security
+🔒 Exploring AWS Vulnerabilities, mitigation strategies and building secure environments.
 🛠️ Developing a custom algorithm within a full-stack application using secure architecture methodologies.
