@@ -23,7 +23,7 @@ TryHackMe: Active practitioner with a focus on network exploitation and privileg
 ### 🌐 Networking & Cloud
 Infrastructure: VMWare Workstation; architecting and managing isolated attack/defence environments.
 Core Networking: TCP/IP, DNS, Firewall ruleset configuration, and Routing.
-Cloud Security: Microsoft Azure security fundamentals (aligned with SC-900) and Identity & Access Management (IAM).
+Cloud Security: Microsoft Azure security fundamentals (aligned with SC-900) and Identity & Access Management (IAM), AWS Security fundamentals, IAM policy creation including permission boundaries, S3 Bucket secure configuration, CloudTrail configuration & IAM Access Keys.
 
 ### 💻 Infrastructure & Scripting
 OS Mastery: Linux (Ubuntu/Kali) and Windows (Server 2022/Desktop).
