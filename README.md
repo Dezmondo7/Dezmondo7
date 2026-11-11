@@ -1,7 +1,7 @@
 
 # Hi, I'm Dale 👋
-## 🛡️ Cyber Security Student / Researcher & Technical Explorer
-I am transitioning into a deeply technical role within the security ecosystem, leveraging a background in full-stack builds and structured computer science coursework to understand how modern applications and infrastructure are secured. 
+## 🛡️ MSc Cloud and Network Security Student / Researcher & Technical Explorer
+I am transitioning into a deeply technical role within the security ecosystem, leveraging a background in full-stack builds and structured computer science coursework to understand how modern applications and infrastructure are secured. Currently focusing on AWS Cloud Technology solutions, completing technical hands-on labs alongside theory based learning paths.
 
 ## 📈 My Evolution.
 
@@ -9,7 +9,9 @@ I am transitioning into a deeply technical role within the security ecosystem, l
 
 2024: Transitioned into Full-Stack development, exploring React architectures and database management.
 
-2025/26: Specialized in Defensive Security Operations, focusing on architectural hardening, credential lifecycle management, and secure API integration.
+2025: Specialized in Defensive Security Operations, focusing on architectural hardening, credential lifecycle management, and secure API integration.
+
+2026: Cloud hosting and security solutions in AWS.
 
 ## 🛠️ Technical Toolkit
 ### 🔍 SIEM & Monitoring
@@ -23,7 +25,9 @@ TryHackMe: Active practitioner with a focus on network exploitation and privileg
 ### 🌐 Networking & Cloud
 Infrastructure: VMWare Workstation; architecting and managing isolated attack/defence environments.
 Core Networking: TCP/IP, DNS, Firewall ruleset configuration, and Routing.
-Cloud Security: Microsoft Azure security fundamentals (aligned with SC-900) and Identity & Access Management (IAM), AWS Security fundamentals, IAM policy creation including permission boundaries, S3 Bucket secure configuration, CloudTrail configuration & IAM Access Keys.
+Cloud Security: Microsoft Azure security fundamentals (aligned with SC-900) and Identity & Access Management (IAM)
+AWS Security fundamentals, IAM policy creation including permission boundaries, S3 Bucket secure configuration, CloudTrail configuration & IAM Access Keys.
+EC2, VPC, CloudFront, DynamoDB, 
 
 ### 💻 Infrastructure & Scripting
 OS Mastery: Linux (Ubuntu/Kali) and Windows (Server 2022/Desktop).
